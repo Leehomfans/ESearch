@@ -1,0 +1,11 @@
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\ESearch.exe.config
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\ESearch.exe
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\ESearch.pdb
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\PlainElastic.Net.dll
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\PlainElastic.Net.pdb
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\bin\Debug\PlainElastic.Net.xml
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\obj\Debug\ESearch.csprojResolveAssemblyReference.cache
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\obj\Debug\ESearch.exe
+C:\Users\chenqilong\Desktop\Demo\ES\ESearch\ESearch\obj\Debug\ESearch.pdb
